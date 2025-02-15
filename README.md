@@ -11,5 +11,5 @@ The Like button is now also used by other social media platforms like YouTube, G
 
 ## ╔═━「 Creator Info 」
 
-+ [Mazenl]([https://github.com/Rachit-Pal](https://github.com/alfar-programer)) : CREATOR
++ [Mazenl]([https://github.com/Rachit-Pal](https://github.com/alfar-programer]) : CREATOR
 
